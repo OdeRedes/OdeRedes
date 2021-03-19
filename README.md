@@ -45,16 +45,14 @@ Somos un grupo de investigadores de la Carrera de Ciencia Politica 🎓 en la Un
 -->
 
 ### Proyectos en los que trabajamos:
-<details>
  <table>
-    <thead align="center">
+    < align="center">
       <tr border: none;>
         <td><b>💻 Projects</b></td>
         <td><b>🔬 Language</b></td>
         <td><b>🔧 Tools</b></td>
         <td><b>💜 Colaboradores </b></td>
       </tr>
-    </thead>
       <tr>
 	 <td><a align="center" href="https://github.com/Observatorio-de-Redes/politicxs-en-twitter"><b> 👨‍👩‍💼 Politicxs en Twitter</b></a></td>
         <td><img align="center" height="50" alt="Language" src="https://new.library.arizona.edu/sites/default/files/styles/featured_image/public/featured_media/rprogramming.png?itok=tW_Lc4a8"/>
@@ -69,7 +67,6 @@ Somos un grupo de investigadores de la Carrera de Ciencia Politica 🎓 en la Un
       </tr>
    </table>
   <br />
-</details>
 
 <div align="center">
 ### Si te gusta lo que hacemos compartilo ❤️!
