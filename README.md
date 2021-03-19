@@ -46,7 +46,6 @@ Somos un grupo de investigadores de la Carrera de Ciencia Politica 🎓 en la Un
 
 ### Proyectos en los que trabajamos:
  <table>
-    < align="center">
       <tr border: none;>
         <td><b>💻 Projects</b></td>
         <td><b>🔬 Language</b></td>
